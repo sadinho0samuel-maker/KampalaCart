@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "dev": {
+      "bundleId": "com.example.kampala_cart.dev",
+      "appName": "KampalaCart Dev"
+    },
+    "prod": {
+      "bundleId": "com.example.kampala_cart",
+      "appName": "KampalaCart"
+    }
+  },
+  "flutter": {
+    "version": "3.13.0"
+  }
+}
